@@ -1,0 +1,1 @@
+# Assignment1-Gaussian-Mixture-Model
